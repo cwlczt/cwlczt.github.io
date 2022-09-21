@@ -8,17 +8,10 @@ I am currently a master student in School of Information Science and Engineering
 # Education
 09/2021 – Present, 	M.Eng., Computer Science and Technology, Shandong Normal University. 
 Supervisor: Dr. Cheng Liang
-
 09/2017 – 06/2021, 	B.Sc., Computer Science and Technology, Shandong Normal University. 
 Bachelor Thesis: “Research on Cancer Subtype Classification Algorithm Based on Multi-source Data Fusion”
 
 # Honors And Awards
 1.Third-Class Scholarship of Shandong Normal University
-
 2.Single-Curriculum Scholarship of Shandong Normal University
-
 3.Third Prize in Shandong Province, 2019 China Undergraduate Mathematical Contest in Modeling (CUMCM)
-
-
-
-
