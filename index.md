@@ -14,8 +14,11 @@ Bachelor Thesis: “Research on Cancer Subtype Classification Algorithm Based on
 
 # Honors And Awards
 1.Third-Class Scholarship of Shandong Normal University
+
 2.Single-Curriculum Scholarship of Shandong Normal University
+
 3.Third Prize in Shandong Province, 2019 China Undergraduate Mathematical Contest in Modeling (CUMCM)
+
 
 
 
